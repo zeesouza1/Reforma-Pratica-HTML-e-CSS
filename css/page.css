@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+#logo{
+    float:right;
+}
+nav,header,footer{
+    background-color:#CF5151;
+}
+.redes_sociais{
+    margin-right:50px;
+}
+body{
+    background-color: azure;
+}
