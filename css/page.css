@@ -12,3 +12,12 @@ nav,header,footer{
 body{
     background-color: azure;
 }
+footer, header{
+    color: #FFF;
+}
+aside,article{
+    padding:10px;
+}
+#reforminha{
+    margin-top: 10px;
+}
