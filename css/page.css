@@ -1,8 +1,7 @@
 @charset "UTF-8";
 
-#logo{
-    float:right;
-}
+
+/* Geral */
 nav,header,footer{
     background-color:#CF5151;
 }
@@ -18,6 +17,21 @@ footer, header{
 aside,article{
     padding:10px;
 }
-#reforminha{
-    margin-top: 10px;
+.espacinho-imagem{
+    padding-top:25px;
 }
+
+
+
+/* fontes */
+
+nav, footer{
+    font-family: 'Bebas Neue';
+}
+h1{
+    font-family: 'Fragment Mono', monospace;
+}
+article, section{
+    font-family: 'Anek Devanagari', sans-serif;
+}
+
